@@ -1,0 +1,15 @@
+C:\Users\Alexandr\Repo\less3\exmpl02\bin\Debug\net6.0\exmpl02.exe
+C:\Users\Alexandr\Repo\less3\exmpl02\bin\Debug\net6.0\exmpl02.deps.json
+C:\Users\Alexandr\Repo\less3\exmpl02\bin\Debug\net6.0\exmpl02.runtimeconfig.json
+C:\Users\Alexandr\Repo\less3\exmpl02\bin\Debug\net6.0\exmpl02.dll
+C:\Users\Alexandr\Repo\less3\exmpl02\bin\Debug\net6.0\exmpl02.pdb
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\exmpl02.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\exmpl02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\exmpl02.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\exmpl02.AssemblyInfo.cs
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\exmpl02.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\exmpl02.dll
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\refint\exmpl02.dll
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\exmpl02.pdb
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\exmpl02.genruntimeconfig.cache
+C:\Users\Alexandr\Repo\less3\exmpl02\obj\Debug\net6.0\ref\exmpl02.dll
